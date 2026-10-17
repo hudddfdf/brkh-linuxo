@@ -1,0 +1,13 @@
+base
+linux
+mkinitcpio
+syslinux
+vim
+zsh
+tmux
+curl
+wget
+git
+nmap
+tcpdump
+htop
